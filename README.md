@@ -1,4 +1,4 @@
-# End to End(B) 안녕하세요
+# END TO END(B) 반갑습니다.
 
 - 강아지
 - 지하철
