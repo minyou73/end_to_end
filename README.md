@@ -1,4 +1,4 @@
-# end to end(B)
+# End to End(B)
 
 - 강아지
 - 지하철
